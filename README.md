@@ -34,12 +34,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/newsletter-screenshot.png)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Add solution URL here](https://github.com/okori97/Sign-up-newsletter-HTML-JS-CSS-/tree/main/newsletter-sign-up-with-success-message-main)
+-   Live Site URL: [Add live site URL here](https://sign-up-newsletter-html-js-css.vercel.app/)
 
 ## My process
 
